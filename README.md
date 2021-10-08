@@ -8,16 +8,20 @@ Observação importante: Para criação desse projeto utilizei a IDE PyCharm
 
 # ♡ Configurando o projeto no PyCharm
 
-- Você precisará de uma IDE que leia py. 
+- Baixe o PyCharm (https://www.jetbrains.com/pt-br/pycharm/download/#section=windows)
+- Essa IDE lê py.
 - Você usará o Selenium no seu projeto, e se estiver utilizando o GoogleChrome, deverá baixar o chromedriver - Para baixar o chromedriver você precisará saber a versão do navegador, e então baixar o arquivo correto através desse link: https://chromedriver.chromium.org/downloads 
 - Coloque o arquivo baixado dentro da pasta do seu projeto 
-- Vamos à IDE escolhida, o Pycharm. Precisei importar: Selenium, re, json, datetime, time. Instale no seu terminal com _pip install_
+- Vamos à IDE escolhida, o Pycharm. Precisei importar: Selenium, re, json, datetime, time. 
+- Instalando dependência externa _pip install_:
+1) pip install selenium
+2) pip install chromedriver
+3) pip install datetime 
 
-# ♡ Executando o projeto
+# ♡ Executando o projeto no PyCharm
 
 - Após ter tudo configurado no seu computador, com os arquivos disponibilizados por aqui, execute o projeto. Nessa IDE, o executor é o "Run". 
 - O projeto irá fazer uma leitura de todos os estados citados no código. Nesse mesmo tempo, na pasta do seu projeto, você verá os arquivos sendo criados com as informações solicitadas.
-
 
 
 Aviso ❤
